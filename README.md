@@ -1,7 +1,7 @@
 # My docker manager
 ![Yacht-Demo.gif|600](https://raw.githubusercontent.com/SelfhostedPro/Yacht/master/readme_media/Yacht-Demo.gif)
 
-[Site](https://yacht.sh)
+[Site](https://yacht.sh)<br/>
 [Github](https://github.com/SelfhostedPro/Yacht)
 
 For [search and instal image in Template!](https://yacht.sh/docs/):
