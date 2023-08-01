@@ -8,4 +8,6 @@ For [search and instal image in Template!](https://yacht.sh/docs/):
 ```bash
 https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/yacht/Template/template.json
 ```
-For backup use [docker_manager_backup.sh](./docker_manager_backup.sh) and [dag airflow](https://github.com/VolokzhaninVadim/airflow/blob/main/dags/update_docker_s3.py).
+## Backup
+For backup use [backup.sh](./backup.sh) and [unzip.sh](./unzip.sh).<br>
+[Yandex s3](https://cloud.yandex.ru/docs/storage/tools/s3fs).
