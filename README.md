@@ -9,5 +9,4 @@ For [search and instal image in Template!](https://yacht.sh/docs/):
 https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/yacht/Template/template.json
 ```
 ## Backup
-For backup use [backup.sh](./backup.sh) and [unzip.sh](./unzip.sh).<br>
-[Yandex s3](https://cloud.yandex.ru/docs/storage/tools/s3fs).
+For backup use [backup-server](https://github.com/VolokzhaninVadim/duplicati).
